@@ -1,6 +1,6 @@
 # Business Analysis Model (Beta)
 
-This is the **Beta** version of the Business Analysis Model. It is a work in progress and still requires many improvements to enhance accuracy and efficiency. Data from a real-wrold cafeteria in Zewail City with a minimal data tending to enhance the model more to be added to a kivy application for business owners with more data
+This is the **Beta** version of the Business Analysis Model. It is a work in progress and still requires many improvements to enhance accuracy and efficiency. Data from a real-wrold cafeteria in Zewail City with a minimal data tending to enhance the model more to be added to a kevy application for business owners with more data
 
 ## Overview
 The **Business Analysis Model** is a data-driven tool designed to analyze business performance by processing financial and sales data. It calculates key financial metrics such as total revenue, profit margin, operational costs, and employee costs. Additionally, it includes machine learning models to predict restocking needs and future sales based on historical data.
