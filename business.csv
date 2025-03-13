@@ -1,0 +1,4 @@
+﻿time,salaries,taxes,utilities,maintenance,transportation_cost,staff_bonus,transportation_damage,material_damage,insurance,device_maintain,vacations,events
+Dec-24,7000,0,300,0,1000,0,250,200,0,100,0,winter
+Sep-24,7000,0,300,0,1000,0,250,200,0,100,0,admission
+Jul-24,7000,0,300,0,1000,,250,200,0,100,0,summer
