@@ -1,6 +1,6 @@
-# Business Analysis Model (Alpha )
+# Business Analysis Model (Pre-Alpha )
 
-This is the **Alpha ** version of the Business Analysis Model. It is a work in progress and still requires many improvements to enhance accuracy and efficiency. Data from a real-wrold cafeteria in Zewail City with a minimal data tending to enhance the model more to be added to a kevy application for business owners with more data
+This is the **Pre-Alpha ** version of the Business Analysis Model. It is a work in progress and still requires many improvements to enhance accuracy and efficiency. Data from a real-wrold cafeteria in Zewail City with a minimal data tending to enhance the model more to be added to a kevy application for business owners with more data
 
 ## Overview
 The **Business Analysis Model** is a data-driven tool designed to analyze business performance by processing financial and sales data. It calculates key financial metrics such as total revenue, profit margin, operational costs, and employee costs. Additionally, it includes machine learning models to predict restocking needs and future sales based on historical data.
@@ -9,7 +9,7 @@ The **Business Analysis Model** is a data-driven tool designed to analyze busine
 - **Financial Analysis**: Computes total revenue, profit, profit margin, and costs.
 - **Employee Cost Analysis**: Calculates total employee-related expenses.
 - **Operational Cost Calculation**: Estimates costs related to business operations.
-- **Predictive Analysis (Alpha )**: Uses machine learning models to predict restocking needs and future sales trends. Currently, this feature is in the testing phase and requires improvements for better accuracy.
+- **Predictive Analysis (Pre-Alpha )**: Uses machine learning models to predict restocking needs and future sales trends. Currently, this feature is in the testing phase and requires improvements for better accuracy.
 
 ## Files
 - `training.csv`: Dataset containing historical sales and stock data.
@@ -20,7 +20,7 @@ The **Business Analysis Model** is a data-driven tool designed to analyze busine
 
 
 
-3. **Modify and Improve:** This is a **Alpha  version**, and many aspects require further optimization, including:
+3. **Modify and Improve:** This is a **Pre-Alpha  version**, and many aspects require further optimization, including:
    - Refining machine learning models to improve accuracy.
    - Enhancing cost calculation logic.
    - Improving error handling and efficiency.
@@ -34,7 +34,7 @@ The **Business Analysis Model** is a data-driven tool designed to analyze busine
 - Improve code structure and efficiency.
 
 ## Contributing
-Since this is a Alpha  version, any contributions to improve functionality, accuracy, and performance are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+Since this is a Pre-Alpha  version, any contributions to improve functionality, accuracy, and performance are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
 ## Files
 - `training.csv` – Contains sales and stock data for analysis.
@@ -42,7 +42,7 @@ Since this is a Alpha  version, any contributions to improve functionality, accu
 - `Business_Analysis_Model.ipynb` – Jupyter Notebook implementing the business analysis and machine learning predictions.
 
 ## Disclaimer
-This is a **work in progress (Alpha  version)**. The business analysis and machine learning predictions need significant improvements. The current implementation may contain inaccuracies and should not be used for critical decision-making without further validation.
+This is a **work in progress (Pre-Alpha  version)**. The business analysis and machine learning predictions need significant improvements. The current implementation may contain inaccuracies and should not be used for critical decision-making without further validation.
 
 Feel free to contribute and improve the model! 🚀
 
