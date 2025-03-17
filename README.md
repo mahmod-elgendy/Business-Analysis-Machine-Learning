@@ -16,15 +16,10 @@ The **Business Analysis Model** is a data-driven tool designed to analyze busine
 - `business.csv`: Dataset containing business-related financial data.
 - `Business_Analysis_Model.ipynb`: Jupyter Notebook implementing the business analysis and machine learning models.
 
-## How to Use
-1. **Install dependencies:**
-   ```sh
-   pip install -r requirements.txt  # If a requirements.txt file is provided
-   ```
-2. **Run the Jupyter Notebook:**
-   ```sh
-   jupyter notebook Business_Analysis_Model.ipynb
-   ```
+![test](https://github.com/user-attachments/assets/2119bd64-164d-43dd-b74a-e387376dcf64)
+
+
+
 3. **Modify and Improve:** This is a **Beta version**, and many aspects require further optimization, including:
    - Refining machine learning models to improve accuracy.
    - Enhancing cost calculation logic.
@@ -32,6 +27,7 @@ The **Business Analysis Model** is a data-driven tool designed to analyze busine
    - Adding documentation and comments for better understanding.
 
 ## Future Improvements
+- Adding better real-world data
 - Optimize ML model convergence for better predictions.
 - Improve data pre-processing and handling of missing values.
 - Enhance cost calculation methods to ensure accuracy.
