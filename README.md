@@ -1,4 +1,4 @@
-# Business Analysis Model (Beta)
+# Business Analysis Model (Alpha )
 
 This is the **Beta** version of the Business Analysis Model. It is a work in progress and still requires many improvements to enhance accuracy and efficiency. Data from a real-wrold cafeteria in Zewail City with a minimal data tending to enhance the model more to be added to a kevy application for business owners with more data
 
