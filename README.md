@@ -41,6 +41,10 @@ Since this is a Pre-Alpha  version, any contributions to improve functionality, 
 - `business.csv` – Includes business operational and employee cost data.
 - `Business_Analysis_Model.ipynb` – Jupyter Notebook implementing the business analysis and machine learning predictions.
 
+## Contributors
+- Mahmoud Elgendy @mahmod-elgendy
+- Jana Shams @jana-shams
+
 ## Disclaimer
 This is a **work in progress (Pre-Alpha  version)**. The business analysis and machine learning predictions need significant improvements. The current implementation may contain inaccuracies and should not be used for critical decision-making without further validation.
 
